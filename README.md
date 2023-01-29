@@ -1,2 +1,2 @@
 # nimem
-note taking app in nim
+wanted to learn nim, for that I am writing this note-taking app
